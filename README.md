@@ -53,7 +53,7 @@ Impossible Platformer Game is a challenging 2D side-scrolling platformer where p
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/impossible-platformer.git
+git clone https://github.com/Nishchay-Bhudia/Impossible-Platformer-Game.git
 cd impossible-platformer
 ```
 
