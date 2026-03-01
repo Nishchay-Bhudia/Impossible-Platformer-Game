@@ -1,4 +1,4 @@
-# Impossible Platformer Game 🎮
+# Impossible Platformer Game 
 
 A challenging 2D platformer game built with Python and Pygame featuring traps, checkpoints, and smooth animations.
 
@@ -6,7 +6,7 @@ A challenging 2D platformer game built with Python and Pygame featuring traps, c
 ![Pygame](https://img.shields.io/badge/pygame-2.x-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## 📋 Table of Contents
+##  Table of Contents
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
@@ -27,7 +27,7 @@ Impossible Platformer Game is a challenging 2D side-scrolling platformer where p
 **Development Period:** 08/10/2024 - 21/01/2025  
 **Subject:** Computer Science
 
-## ✨ Features
+##  Features
 
 - **User Authentication System** - Sign up and login functionality with CSV-based storage
 - **Checkpoint System** - Save progress at strategic points throughout the level
@@ -68,7 +68,7 @@ pip install pygame
 python main.py
 ```
 
-## 🎮 How to Play
+##  How to Play
 
 1. **Launch the game** - Run the Python script
 2. **Start Screen** - Press any key to start the game
@@ -76,7 +76,7 @@ python main.py
 4. **Survive** - Avoid traps and reach checkpoints
 5. **Pause** - Press ESC to access the pause menu
 
-## 🕹️ Game Controls
+##  Game Controls
 
 | Key | Action |
 |-----|--------|
@@ -116,7 +116,7 @@ python main.py
 - Respawn at last checkpoint or default starting position
 
 
-## 🛠️ Development
+##  Development
 
 ### Key Classes
 
