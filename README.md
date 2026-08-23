@@ -57,8 +57,7 @@ pip install pygame
 python "Impossible Platformer Game.py"
 ```
 
-Note the quotes, the filename has spaces in it. An earlier version of this README said
-`main.py`, which was never the name of anything here.
+Note the quotes, the filename has spaces in it.
 
 ## Current state
 
